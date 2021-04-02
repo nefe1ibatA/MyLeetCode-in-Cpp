@@ -5,10 +5,10 @@
 |                 | Easy | Medium | Hard | Total |
 | :-------------: | :--: | :----: | :--: | :---: |
 |   Optimizing    |  0   |   0    |  0   |   0   |
-|    Accpeted     |  1   |   2    |  1   |   4   |
-|      Total      |  1   |   2    |  1   |   4   |
+|    Accpeted     |  1   |   3    |  1   |   5   |
+|      Total      |  1   |   3    |  1   |   5   |
 | Perfection Rate |  0   |   0    |  0   |   0   |
-| Completion Rate |  1   |   2    |  1   |   4   |
+| Completion Rate |  1   |   3    |  1   |   5   |
 
 ## 目录
 

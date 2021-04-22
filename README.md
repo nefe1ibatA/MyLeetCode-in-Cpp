@@ -5,10 +5,10 @@
 |                 | Easy | Medium | Hard | Total |
 | :-------------: | :--: | :----: | :--: | :---: |
 |   Optimizing    |  0   |   0    |  0   |   0   |
-|    Accpeted     |  1   |   3    |  1   |   5   |
-|      Total      |  1   |   3    |  1   |   5   |
+|    Accpeted     |  1   |   4    |  1   |   6   |
+|      Total      |  1   |   4    |  1   |   6   |
 | Perfection Rate |  0   |   0    |  0   |   0   |
-| Completion Rate |  1   |   3    |  1   |   5   |
+| Completion Rate |  1   |   4    |  1   |   6   |
 
 ## 目录
 
@@ -19,6 +19,7 @@
 | 0003 | Longest Substring Without Repeating Characters | [C++](https://github.com/nefe1ibatA/MyLeetCode-in-Cpp/tree/master/0003.%20Longest%20Substring%20Without%20Repeating%20Characters) |   36.8%    |   Medium   | 50.00% | 43.07% |
 | 0004 |          Median of Two Sorted Arrays           | [C++](https://github.com/nefe1ibatA/MyLeetCode-in-Cpp/tree/master/0004.%20Medium%20of%20Two%20Sorted%20Arrays) |   39.8%    |    Hard    | 98.83% | 82.57% |
 | 0005 |         Longest Palindromic Substring          | [C++](https://github.com/nefe1ibatA/MyLeetCode-in-Cpp/tree/master/0005.%20Longest%20Palindromic%20Substring) |   33.8%    |   Medium   | 98.05% | 72.13% |
+| 0006 |               ZigZag Conversion                | [C++](https://github.com/nefe1ibatA/MyLeetCode-in-Cpp/tree/master/0006.%20ZigZag%20Conversion) |   50.0%    |   Medium   | 97.84% | 91.92% |
 
 
 

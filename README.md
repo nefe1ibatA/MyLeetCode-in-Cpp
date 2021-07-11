@@ -5,10 +5,10 @@
 |                 | Easy | Medium | Hard | Total |
 | :-------------: | :--: | :----: | :--: | :---: |
 |   Optimizing    |  0   |   0    |  0   |   0   |
-|    Accpeted     |  1   |   4    |  1   |   6   |
-|      Total      |  1   |   4    |  1   |   6   |
+|    Accpeted     |  1   |   5    |  1   |   7   |
+|      Total      |  1   |   5    |  1   |   7   |
 | Perfection Rate |  0   |   0    |  0   |   0   |
-| Completion Rate |  1   |   4    |  1   |   6   |
+| Completion Rate |  1   |   5    |  1   |   7   |
 
 ## 目录
 
@@ -20,6 +20,5 @@
 | 0004 |          Median of Two Sorted Arrays           | [C++](https://github.com/nefe1ibatA/MyLeetCode-in-Cpp/tree/master/0004.%20Medium%20of%20Two%20Sorted%20Arrays) |   39.8%    |    Hard    | 98.83% | 82.57% |
 | 0005 |         Longest Palindromic Substring          | [C++](https://github.com/nefe1ibatA/MyLeetCode-in-Cpp/tree/master/0005.%20Longest%20Palindromic%20Substring) |   33.8%    |   Medium   | 98.05% | 72.13% |
 | 0006 |               ZigZag Conversion                | [C++](https://github.com/nefe1ibatA/MyLeetCode-in-Cpp/tree/master/0006.%20ZigZag%20Conversion) |   50.0%    |   Medium   | 97.84% | 91.92% |
-
-
+| 0022 |               Generate Parenthesis                | [C++](https://github.com/nefe1ibatA/MyLeetCode-in-Cpp/tree/master/0022.%20Generate%20Parenthesis) |   67.0%    |   Medium   | 100% | 95.43% |
 

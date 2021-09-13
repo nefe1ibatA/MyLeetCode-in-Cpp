@@ -1,4 +1,4 @@
-# （0524. Longest Word in Dictionary through Deleting）[https://leetcode-cn.com/problems/longest-word-in-dictionary-through-deleting/]
+# [0524. Longest Word in Dictionary through Deleting](https://leetcode-cn.com/problems/longest-word-in-dictionary-through-deleting/)
 
 ## 题目大意
 
